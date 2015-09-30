@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易本義通釋
-#+DATE: 2015-09-23 09:34:55
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:56:45.240634
+#+PROPERTY: ID KR1a0078
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三 
 <pb:KR1a0078_WYG_003-1a>¶
 欽定四庫全書¶
 　周易本義通釋卷三¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　周易本義通釋卷三¶
-
